@@ -1,7 +1,4 @@
-#define APSTUDIO_READONLY_SYMBOLS
-#include "afxres.h"
-#undef APSTUDIO_READONLY_SYMBOLS
-
+#include <windows.h>
 // Icon
 STRATUMSPHERE_ICON               ICON    DISCARDABLE     "s0trayicon.ico"
 
