@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Stratumsphere Tray Icon
+GenericName=Stratumsphere Tray Icon
+Comment=Stratum0 Hackerspace status icon
+Exec=s0trayicon
+Icon=s0trayicon
+Terminal=false
+Type=Application
+Categories=Utility;
